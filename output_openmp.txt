@@ -1,0 +1,24 @@
+Max Threads = 4
+
+Input Array = [3, 1, 2, 4, 5]
+Target Sum = 6
+
+Thread Table: 
+Row 0: 0 0 0 0 0 0 0 
+Row 1: 0 0 1 1 2 2 3 
+Row 2: 0 0 1 1 2 2 3 
+Row 3: 0 0 1 1 2 2 3 
+Row 4: 0 0 1 1 2 2 3 
+Row 5: 0 0 1 1 2 2 3 
+
+DP Table: 
+Row 0: 1 0 0 0 0 0 0 
+Row 1: 1 0 0 1 0 0 0 
+Row 2: 1 1 0 1 1 0 0 
+Row 3: 1 1 1 2 1 1 1 
+Row 4: 1 1 1 2 2 2 2 
+Row 5: 1 1 1 2 2 3 3 
+
+Subset Sum Count = 3
+
+Finished in 0.000133 seconds.
