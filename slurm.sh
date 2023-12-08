@@ -4,7 +4,6 @@
 #SBATCH --ntasks-per-node=1
 #SBATCH --cpus-per-task=4
 
-#SBATCH --constraint=IB|OPA
 #SBATCH --time=00:10:00
 
 #SBATCH --partition=general-compute
