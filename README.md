@@ -18,3 +18,6 @@ For my semester-long parallel computing project, I implemented a solution to the
 
 Reference:
 https://www.geeksforgeeks.org/count-of-subsets-with-sum-equal-to-x/
+
+Official Project Demo:
+https://cse.buffalo.edu/faculty/miller/Courses/CSE702/Kunal-Chand-Fall-2023.pdf
